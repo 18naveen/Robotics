@@ -1,0 +1,12 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/naveen/AppData/Local/Programs/Python/Python312/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake:200 (message)"
+      - "CMakeLists.txt:31 (enable_language)"
+    message: |
+      The target system is: Generic -  - arm
+      The host system is: Windows - 10.0.26200 - AMD64
+...
